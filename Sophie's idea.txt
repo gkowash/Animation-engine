@@ -1,0 +1,5 @@
+Line rotates around inside a little box, whenever it hits a wall, that point becomes the new pivot.
+User can specify how many times they want it to go around.
+Also the start, end, size, and color.
+In little variables you enter at the top.
+Make it user-friendly!
